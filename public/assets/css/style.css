@@ -1,0 +1,31 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Heading */
+
+.header-banner {
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+    position: relative;
+}
+
+.logout-btn {
+    bottom: 10px;
+    right: 10px;
+    position: absolute;
+}
+
+.header-banner h1 {
+    color: white;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+}
+
+.logo-img {
+    height: 120px;
+    width: auto;
+}
+
+
